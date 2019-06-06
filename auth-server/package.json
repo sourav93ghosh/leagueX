@@ -1,0 +1,16 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "Auth Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Sourav Ghosh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "querystring": "^0.2.0",
+    "request": "^2.88.0"
+  }
+}
